@@ -53,10 +53,8 @@ ul {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  gap: 8px;
-  padding: 0;
-  margin: 0;
-
+  margin-left: 0;
+  margin-right: auto;
 }
 
 
