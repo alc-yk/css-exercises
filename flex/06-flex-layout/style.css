@@ -79,6 +79,10 @@ a{
   color: grey
 }
 
+button{
+  padding: 10px;
+}
+
 /**
 - The header is at the top of the page, the footer is at the 
     bottom, and they stay in place if you resize your screen.
