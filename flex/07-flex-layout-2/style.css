@@ -58,22 +58,29 @@ li{
   color: white;
   text-decoration: none;
   list-style-type: none;
+  margin:12px;
+
+}
+
+ul{
+  padding: 0;
 }
 
 .card{
   display: flex;
-  flex-direction: column;
-  
-  border: solid blue
+  flex-basis: 300px;
+  flex-shrink: 0;
+  padding:18px;
+
+
 }
 
 .grid{
   display:flex;
-  flex-direction: column;
+  flex-wrap: wrap;
   padding:32px;
+  gap:32px;
 
-
-  border: solid gold;
 }
 
 /**
